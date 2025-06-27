@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "s",
+=======
   "name": "t",
+>>>>>>> 91345e20bd90724527ce3ebb8989c02b45798d6a
   "private": true,
   "version": "0.0.0",
   "type": "module",
